@@ -1,0 +1,15 @@
+---
+title: "Evolu"
+lang: es
+author: "Martín Diez"
+date: "2024-12-01"
+date-format: "MMMM YYYY"
+format: 
+  beamer:
+    keep-title-slide: false  # Desactiva la portada automática
+execute: false
+---
+
+# Primera
+
+## Hola 
